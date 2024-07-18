@@ -1,5 +1,6 @@
 numpy==1.25.2
 pandas==2.0.3
 streamlit
+seaborn
 scikit-learn
 pip==23.1.2
